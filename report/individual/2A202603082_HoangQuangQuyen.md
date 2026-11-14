@@ -196,5 +196,5 @@ Lỗi `id_switch` ảnh hưởng trực tiếp đến cả MOTA và IDF1. Tuy nh
 | | | | | |
 
 ## 7. Tài liệu tham khảo và công cụ AI đã dùng
-Day-04-lythuyet
+Day-05-lythuyet
 ...
